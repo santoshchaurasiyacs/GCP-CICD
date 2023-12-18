@@ -1,0 +1,12 @@
+2023-12-18 12:10:37.701 [info] Test server listening.
+2023-12-18 12:10:37.701 [info] Python interpreter path: /usr/bin/python
+2023-12-18 12:10:38.466 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-18 12:10:38.466 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-18 12:10:38.466 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-18 12:10:38.466 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-18 12:10:38.466 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-18 12:10:39.122 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-18 12:10:39.122 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-18 12:10:40.322 [info] Starting Jedi language server for devops-repo.
+2023-12-18 12:10:44.452 [info] Discover tests for workspace name: devops-repo - uri: /home/student_00_dca90a6c9441/gcp-course/devops-repo/main.py
+2023-12-18 12:10:47.976 [info] Discover tests for workspace name: devops-repo - uri: /home/student_00_dca90a6c9441/gcp-course/devops-repo/main.py

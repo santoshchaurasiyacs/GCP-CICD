@@ -1,0 +1,23 @@
+2023-12-18 11:32:13.817 [info] 
+
+
+
+
+2023-12-18 11:32:13.817 [info] Extension host agent started.
+2023-12-18 11:32:13.840 [info] Started initializing default profile extensions in extensions installation folder. file:///home/student_00_dca90a6c9441/.codeoss/extensions
+2023-12-18 11:32:13.858 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/student_00_dca90a6c9441/.codeoss/extensions
+2023-12-18 11:32:18.968 [info] [127.0.0.1][3cfc0b41][ExtensionHostConnection] New connection established.
+2023-12-18 11:32:18.980 [info] [127.0.0.1][e1dfac5f][ManagementConnection] New connection established.
+2023-12-18 11:32:21.125 [info] [127.0.0.1][3cfc0b41][ExtensionHostConnection] <1157> Launched Extension Host Process.
+2023-12-18 11:32:39.849 [info] [127.0.0.1][e1dfac5f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-18 11:32:39.909 [info] [127.0.0.1][3cfc0b41][ExtensionHostConnection] <1157> Extension Host Process exited with code: 0, signal: null.
+2023-12-18 11:32:41.325 [info] [127.0.0.1][c4866f37][ManagementConnection] New connection established.
+2023-12-18 11:32:41.427 [info] [127.0.0.1][ad618b76][ExtensionHostConnection] New connection established.
+2023-12-18 11:32:41.439 [info] [127.0.0.1][ad618b76][ExtensionHostConnection] <1221> Launched Extension Host Process.
+2023-12-18 11:46:55.853 [info] [127.0.0.1][c4866f37][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-18 11:46:55.965 [info] [127.0.0.1][ad618b76][ExtensionHostConnection] <1221> Extension Host Process exited with code: 0, signal: null.
+2023-12-18 12:10:08.490 [info] [127.0.0.1][1b24995d][ManagementConnection] New connection established.
+2023-12-18 12:10:08.527 [info] [127.0.0.1][9d7e5283][ExtensionHostConnection] New connection established.
+2023-12-18 12:10:08.540 [info] [127.0.0.1][9d7e5283][ExtensionHostConnection] <1628> Launched Extension Host Process.
+2023-12-18 12:10:31.454 [info] [127.0.0.1][9d7e5283][ExtensionHostConnection] The client has reconnected.
+2023-12-18 12:10:31.675 [info] [127.0.0.1][1b24995d][ManagementConnection] The client has reconnected.
