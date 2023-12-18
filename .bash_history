@@ -39,3 +39,9 @@ git init
 git commit -am "gcp-devops'
 git commit -am "gcp-devops"
 git add .
+git commit -am "gcp-devops"
+git remote add origin https://github.com/santoshchaurasiyacs
+git push
+git push --set-upstream origin master
+history
+history >command.txt
