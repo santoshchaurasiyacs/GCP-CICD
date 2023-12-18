@@ -2,3 +2,5 @@
 
 2023-12-18 12:10:41.220 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2"
 
+2023-12-18 12:40:16.140 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "52"
+
